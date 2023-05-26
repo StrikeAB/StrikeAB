@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java & Hibernate programming
 - 🌱 I’m currently learning Python & Data Analytics
 - 💞️ I’m looking to collaborate on Football Analytics using Python
-- 📫 How to reach me akshay.smithenl@gmail.com
+- 📫 How to reach me @StrikeAB
 
 <!---
 StrikeAB/StrikeAB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
