@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StrikeAB
-- 👀 I’m interested in Java & Hibernate programming
+- 👀 I have been interested in Java based programming mostly related to database transactions (Hibernate)
 - 🌱 I’m currently learning Python & Data Analytics
 - 💞️ I’m looking to collaborate on Football Analytics using Python
 - 📫 How to reach me @StrikeAB
